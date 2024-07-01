@@ -1,18 +1,21 @@
 # My Universal React Project
 
-<!-- <table>
+<table>
   <tr>
     <td align="center">
-      <img src="cover.png?raw=true" alt="Template Screenshot" width="300">
+      <img src="cover1.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
     <td align="center">
-      <img src="cover2.png?raw=true" alt="Template Screenshot" width="300">
+      <img src="cover2.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
     <td align="center">
-      <img src="cover3.png?raw=true" alt="Template Screenshot" width="300">
+      <img src="cover3.jpg?raw=true" alt="Template Screenshot" width="200">
+    </td>
+    <td align="center">
+      <img src="cover4.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
   </tr>
-</table> -->
+</table>
 
 <p>
   <!-- iOS -->
