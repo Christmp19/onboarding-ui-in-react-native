@@ -3,16 +3,16 @@
 <table>
   <tr>
     <td align="center">
-      <img src="cover1.jpg?raw=true" alt="Template Screenshot" width="200">
+      <img src="covers/cover1.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
     <td align="center">
-      <img src="cover2.jpg?raw=true" alt="Template Screenshot" width="200">
+      <img src="covers/cover2.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
     <td align="center">
-      <img src="cover3.jpg?raw=true" alt="Template Screenshot" width="200">
+      <img src="covers/cover3.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
     <td align="center">
-      <img src="cover4.jpg?raw=true" alt="Template Screenshot" width="200">
+      <img src="covers/cover4.jpg?raw=true" alt="Template Screenshot" width="200">
     </td>
   </tr>
 </table>
